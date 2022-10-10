@@ -5,4 +5,4 @@ This small projects helps one out to scan a website rather than clicking to a li
 ![fc466fd3-e63b-4184-9cbc-0ec1f8a172f7](https://user-images.githubusercontent.com/75639917/194939355-9ba12082-f901-435c-9764-8cac3441f5db.jpg)
 
 ## THE MAIN OUTPUT SCREEN
-![c6d53c46-a0c8-4cc7-b4cb-a2adb36ef67d](https://user-images.githubusercontent.com/75639917/194939372-eb10c5ac-6f4e-4162-a7ca-24e2ea2d08e8.jpg)
+![db89af5c-fde0-4c83-af9e-6a4fe6d79e00](https://user-images.githubusercontent.com/75639917/194940924-699337d7-3ddc-42bd-a58a-8d91fa934c88.jpg)
